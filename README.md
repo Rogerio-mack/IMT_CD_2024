@@ -10,7 +10,7 @@
 
 [Ciências de Dados e Usos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ciencias_de_Dados_e_Usos.ipynb)
 
-[Paradigma de Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Introducao_ao_Colab.ipynb) 
+[Paradigma de Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Paradigma_de_ML.ipynb)
 
 [Standard Process for Data Mining](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Standard_Process_for_Data_Mining.ipynb)
 
