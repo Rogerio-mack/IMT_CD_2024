@@ -14,3 +14,8 @@
 
 [Standard Process for Data Mining](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Standard_Process_for_Data_Mining.ipynb)
 
+#### `Pandas`, `Matplotlib`, Visualização de Dados e EDA (*Exploratory Data Analysis*)
+
+[Pandas DataFrames e Séries](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Pandas_I.ipynb) 
+| [Exercício Ex_Pandas1](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_Pandas1.ipynb)
+
