@@ -21,5 +21,6 @@
 | [Exercício Ex_Pandas1](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_Pandas1.ipynb)
 
 > [Aula 29.02A](https://colab.research.google.com/drive/1bVBBkbB2IfgC1OXysysTPWPyzpxKEJEY?usp=sharing)
+
 > [Aula 29.02B](https://colab.research.google.com/drive/1g85eUUUzng68ELEcGY8O1999sOXzxBMu?usp=sharing)
 
