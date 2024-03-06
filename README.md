@@ -23,7 +23,7 @@
 >
 > [Aula 29.02A](https://colab.research.google.com/drive/1bVBBkbB2IfgC1OXysysTPWPyzpxKEJEY?usp=sharing) |
 > [Aula 29.02B](https://colab.research.google.com/drive/1g85eUUUzng68ELEcGY8O1999sOXzxBMu?usp=sharing)
->>> `df[ <seleção de linha> ][ <seleção de colunas> ]`
+>> `df[ <seleção de linha> ][ <seleção de colunas> ]`
 >
 >
 > <img src="https://jakevdp.github.io/PythonDataScienceHandbook/figures/PDSH-cover.png" width="140"/>
