@@ -20,8 +20,12 @@
 [Pandas DataFrames e Séries](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Pandas_I.ipynb) 
 | [Exercício Ex_Pandas1](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_Pandas1.ipynb)
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_Pandas1_solucao.ipynb)
-
+>
 > [Aula 29.02A](https://colab.research.google.com/drive/1bVBBkbB2IfgC1OXysysTPWPyzpxKEJEY?usp=sharing)
-
+>
 > [Aula 29.02B](https://colab.research.google.com/drive/1g85eUUUzng68ELEcGY8O1999sOXzxBMu?usp=sharing)
+>
+> <img src="https://jakevdp.github.io/PythonDataScienceHandbook/figures/PDSH-cover.png" width="140"/>
+> 
+> * Jake VanderPlas. (2016). **Python Data Science Handbook**  O'Reilly Media, Inc.  ISBN: 9781491912058. Disponível [aqui](https://jakevdp.github.io/PythonDataScienceHandbook/) cap. 3.2.  
 
