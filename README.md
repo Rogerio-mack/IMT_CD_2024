@@ -28,4 +28,5 @@
 > <img src="https://jakevdp.github.io/PythonDataScienceHandbook/figures/PDSH-cover.png" width="140"/>
 > 
 > * Jake VanderPlas. (2016). **Python Data Science Handbook**  O'Reilly Media, Inc.  ISBN: 9781491912058. Disponível [aqui](https://jakevdp.github.io/PythonDataScienceHandbook/) cap. 3.2.  
-
+>
+> [Aula 06.03A](https://colab.research.google.com/drive/13EBV3Y7INeKEqLBNEpECgRopj5nxwZtR?usp=sharing)
