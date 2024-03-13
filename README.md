@@ -38,7 +38,7 @@
 >> `.loc .iloc .at .iat`, *atualizando valores, iterando sobre linhas*
 >
 > [Exercício Pandas B3](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_Pandas_B3.ipynb)
-[**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_Pandas_B3_solucao.ipynb)
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_Pandas_B3_solucao.ipynb)
 
 **13.03** [Pandas Agregações e GroupBy](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Pandas_I.ipynb) 
 > * Jake VanderPlas. (2016). **Python Data Science Handbook**  O'Reilly Media, Inc.  ISBN: 9781491912058. Disponível [aqui](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html) cap. 3.8.
