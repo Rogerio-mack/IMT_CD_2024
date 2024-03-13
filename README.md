@@ -8,16 +8,16 @@
 
 #### Introdução, IA X Ciência de Dados, CRISP DM, Colab
 
-[Ciências de Dados e Usos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ciencias_de_Dados_e_Usos.ipynb)
+**14.02** [Ciências de Dados e Usos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ciencias_de_Dados_e_Usos.ipynb)
 
-[Paradigma de Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Paradigma_de_ML.ipynb)
+**21.02** [Paradigma de Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Paradigma_de_ML.ipynb)
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Paradigma_de_ML_solucao.ipynb)
 
-[Standard Process for Data Mining](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Standard_Process_for_Data_Mining.ipynb)
+> [Standard Process for Data Mining](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Standard_Process_for_Data_Mining.ipynb)
 
 #### `Pandas`, `Matplotlib`, Visualização de Dados e EDA (*Exploratory Data Analysis*)
 
-[Pandas DataFrames e Séries](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Pandas_I.ipynb) 
+**28.02** [Pandas DataFrames e Séries](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Pandas_I.ipynb) 
 | [Exercício Ex_Pandas1](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_Pandas1.ipynb)
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_Pandas1_solucao.ipynb)
 >
@@ -27,7 +27,10 @@
 >
 >
 > <img src="https://jakevdp.github.io/PythonDataScienceHandbook/figures/PDSH-cover.png" width="140"/>
-> 
+>
+
+**06.03** [Pandas `.iloc`, `.loc`, *update by index*](https://jakevdp.github.io/PythonDataScienceHandbook/03.02-data-indexing-and-selection.html)
+
 > * Jake VanderPlas. (2016). **Python Data Science Handbook**  O'Reilly Media, Inc.  ISBN: 9781491912058. Disponível [aqui](https://jakevdp.github.io/PythonDataScienceHandbook/03.02-data-indexing-and-selection.html) cap. 3.2.  
 >
 > [Aula 06.03A](https://colab.research.google.com/drive/13EBV3Y7INeKEqLBNEpECgRopj5nxwZtR?usp=sharing) |
@@ -37,6 +40,6 @@
 > [Exercício Pandas B3](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_Pandas_B3.ipynb)
 [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_Pandas_B3_solucao.ipynb)
 
-[Pandas Agregações e GroupBy](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Pandas_I.ipynb) 
+**13.03** [Pandas Agregações e GroupBy](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Pandas_I.ipynb) 
 > * Jake VanderPlas. (2016). **Python Data Science Handbook**  O'Reilly Media, Inc.  ISBN: 9781491912058. Disponível [aqui](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html) cap. 3.8.
 
