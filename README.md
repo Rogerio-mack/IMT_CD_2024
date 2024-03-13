@@ -42,4 +42,6 @@
 
 **13.03** [Pandas Agregações e GroupBy](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Pandas_I.ipynb) 
 > * Jake VanderPlas. (2016). **Python Data Science Handbook**  O'Reilly Media, Inc.  ISBN: 9781491912058. Disponível [aqui](https://jakevdp.github.io/PythonDataScienceHandbook/03.08-aggregation-and-grouping.html) cap. 3.8.
+>
+> [Aula 13.03](https://colab.research.google.com/drive/1wqvh49WrDtfJYq5oYVuAvUUZ4PE83nXc?usp=sharing)
 
