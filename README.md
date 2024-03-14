@@ -45,3 +45,5 @@
 >
 > [Aula 13.03](https://colab.research.google.com/drive/1wqvh49WrDtfJYq5oYVuAvUUZ4PE83nXc?usp=sharing)
 
+> [Exercício Pandas B3](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_PandasGroupBy.ipynb)
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_PandasGroupBy_solucao.ipynb)
