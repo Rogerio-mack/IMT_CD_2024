@@ -55,9 +55,9 @@
 
 > * Wickham, H., & Grolemund, G. (2016). [**R for data science: import, tidy, transform, visualize, and model data**](https://r4ds.had.co.nz/index.html) O'Reilly Media, Inc.
  
-> * > <img src="https://wesmckinney.com/book/images/cover.png" width="140"/>
+> * <img src="https://wesmckinney.com/book/images/cover.png" width="140"/>
 
-> * > McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+> * McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 > [Aula 20.03]( )
 
