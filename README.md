@@ -59,7 +59,7 @@
 
 > * McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
-> [Aula 20.03](https://colab.research.google.com/drive/1nt6x_Q62lv7uJQNRCqd-czmUH639y3L7?usp=sharing)
+> [Aula 20.03](https://colab.research.google.com/drive/1tpwdqadjT_kN8e3pbVUzI5HfdUxM8Ac5?usp=sharing)
 
 
 
