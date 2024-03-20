@@ -21,9 +21,9 @@ KATOU FINE RESTAURANT,2017-06-03,Grade,A
 KATOU FINE RESTAURANT,2017-06-03,Score,12.0
 BRANDY'S PIANO BAR,2017-07-24,Borough,MANHATTAN
 BRANDY'S PIANO BAR,2017-07-24,Cuisine,American
-BRANDY'S PIANO BAR,2017-07-24,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
-BRANDY'S PIANO BAR,2017-07-24,Grade,A
-BRANDY'S PIANO BAR,2017-07-24,Score,9.0
+BRANDY'S PIANO BAR,2023-13-33,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+BRANDY'S PIANO BAR,2023-13-33,Grade,A
+BRANDY'S PIANO BAR,2023-13-33,Score,9.0
 HOLLAND HOUSE,2017-02-06,Borough,MANHATTAN
 HOLLAND HOUSE,2017-02-06,Cuisine,American
 HOLLAND HOUSE,2017-02-06,Description,Hot food item not held at or above 140Âº F.
@@ -219,36 +219,36 @@ NEGRIL,2017-03-01,Cuisine,Caribbean
 NEGRIL,2017-03-01,Description,"Filth flies or food/refuse/sewage-associated (FRSA) flies present in facilitys food and/or non-food areas. Filth flies include house flies, little house flies, blow flies, bottle flies and flesh flies. Food/refuse/sewage-associated flies include fruit flies, drain flies and Phorid flies."
 NEGRIL,2017-03-01,Grade,A
 NEGRIL,2017-03-01,Score,12.0
-MAY KAIDEE/DESI FOOD TRUCK,2017-02-23,Borough,MANHATTAN
-MAY KAIDEE/DESI FOOD TRUCK,2017-02-23,Cuisine,Asian
-MAY KAIDEE/DESI FOOD TRUCK,2017-02-23,Description,Facility not vermin proof. Harborage or conditions conducive to attracting vermin to the premises and/or allowing vermin to exist.
-MAY KAIDEE/DESI FOOD TRUCK,2017-02-23,Grade,A
-MAY KAIDEE/DESI FOOD TRUCK,2017-02-23,Score,10.0
-IL POSTINO,2017-02-02,Borough,MANHATTAN
-IL POSTINO,2017-02-02,Cuisine,Italian
-IL POSTINO,2017-02-02,Description,Evidence of mice or live mice present in facility's food and/or non-food areas.
-IL POSTINO,2017-02-02,Grade,A
-IL POSTINO,2017-02-02,Score,12.0
-COZY CORNER BAR & RESTAURANT,2017-05-03,Borough,QUEENS
-COZY CORNER BAR & RESTAURANT,2017-05-03,Cuisine,American
-COZY CORNER BAR & RESTAURANT,2017-05-03,Description,"Food not protected from potential source of contamination during storage, preparation, transportation, display or service."
-COZY CORNER BAR & RESTAURANT,2017-05-03,Grade,A
-COZY CORNER BAR & RESTAURANT,2017-05-03,Score,12.0
-CIBO EXPRESS GOURMET MARKET (VAGABOND),2017-05-24,Borough,QUEENS
-CIBO EXPRESS GOURMET MARKET (VAGABOND),2017-05-24,Cuisine,American
-CIBO EXPRESS GOURMET MARKET (VAGABOND),2017-05-24,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
-CIBO EXPRESS GOURMET MARKET (VAGABOND),2017-05-24,Grade,A
-CIBO EXPRESS GOURMET MARKET (VAGABOND),2017-05-24,Score,6.0
-ON THE ROX LOUNGE & BAR,2017-03-13,Borough,QUEENS
-ON THE ROX LOUNGE & BAR,2017-03-13,Cuisine,American
-ON THE ROX LOUNGE & BAR,2017-03-13,Description,"Food not protected from potential source of contamination during storage, preparation, transportation, display or service."
-ON THE ROX LOUNGE & BAR,2017-03-13,Grade,A
-ON THE ROX LOUNGE & BAR,2017-03-13,Score,10.0
-TOWERS CAFE,2017-08-16,Borough,BROOKLYN
-TOWERS CAFE,2017-08-16,Cuisine,American
-TOWERS CAFE,2017-08-16,Description,"Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occurred."
-TOWERS CAFE,2017-08-16,Grade,A
-TOWERS CAFE,2017-08-16,Score,12.0
+MAY KAIDEE/DESI FOOD TRUCK,2023-13-33,Borough,MANHATTAN
+MAY KAIDEE/DESI FOOD TRUCK,2023-13-33,Cuisine,Asian
+MAY KAIDEE/DESI FOOD TRUCK,2023-13-33,Description,Facility not vermin proof. Harborage or conditions conducive to attracting vermin to the premises and/or allowing vermin to exist.
+MAY KAIDEE/DESI FOOD TRUCK,2023-13-33,Grade,A
+MAY KAIDEE/DESI FOOD TRUCK,2023-13-33,Score,10.0
+IL POSTINO,2023-13-33,Borough,MANHATTAN
+IL POSTINO,2023-13-33,Cuisine,Italian
+IL POSTINO,2023-13-33,Description,Evidence of mice or live mice present in facility's food and/or non-food areas.
+IL POSTINO,2023-13-33,Grade,A
+IL POSTINO,2023-13-33,Score,12.0
+COZY CORNER BAR & RESTAURANT,2023-13-33,Borough,QUEENS
+COZY CORNER BAR & RESTAURANT,2023-13-33,Cuisine,American
+COZY CORNER BAR & RESTAURANT,2023-13-33,Description,"Food not protected from potential source of contamination during storage, preparation, transportation, display or service."
+COZY CORNER BAR & RESTAURANT,2023-13-33,Grade,A
+COZY CORNER BAR & RESTAURANT,2023-13-33,Score,12.0
+CIBO EXPRESS GOURMET MARKET (VAGABOND),2023-13-33,Borough,QUEENS
+CIBO EXPRESS GOURMET MARKET (VAGABOND),2023-13-33,Cuisine,American
+CIBO EXPRESS GOURMET MARKET (VAGABOND),2023-13-33,Description,"Non-food contact surface improperly constructed. Unacceptable material used. Non-food contact surface or equipment improperly maintained and/or not properly sealed, raised, spaced or movable to allow accessibility for cleaning on all sides, above and underneath the unit."
+CIBO EXPRESS GOURMET MARKET (VAGABOND),2023-13-33,Grade,A
+CIBO EXPRESS GOURMET MARKET (VAGABOND),2023-13-33,Score,6.0
+ON THE ROX LOUNGE & BAR,2023-13-33,Borough,QUEENS
+ON THE ROX LOUNGE & BAR,2023-13-33,Cuisine,American
+ON THE ROX LOUNGE & BAR,2023-13-33,Description,"Food not protected from potential source of contamination during storage, preparation, transportation, display or service."
+ON THE ROX LOUNGE & BAR,2023-13-33,Grade,A
+ON THE ROX LOUNGE & BAR,2023-13-33,Score,10.0
+TOWERS CAFE,2023-13-33,Borough,BROOKLYN
+TOWERS CAFE,2023-13-33,Cuisine,American
+TOWERS CAFE,2023-13-33,Description,"Food contact surface not properly washed, rinsed and sanitized after each use and following any activity when contamination may have occurred."
+TOWERS CAFE,2023-13-33,Grade,A
+TOWERS CAFE,2023-13-33,Score,12.0
 WAHIZZA,2017-04-13,Borough,MANHATTAN
 WAHIZZA,2017-04-13,Cuisine,Pizza
 WAHIZZA,2017-04-13,Description,"No facilities available to wash, rinse and sanitize utensils and/or equipment."
