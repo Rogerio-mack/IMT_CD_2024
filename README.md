@@ -47,3 +47,19 @@
 
 > [Exercício PandasGroupBy](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_PandasGroupBy.ipynb)
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_PandasGroupBy_solucao.ipynb)
+
+**20.03** [Pandas Agregações e GroupBy](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Pandas_I.ipynb) 
+> * Jake VanderPlas. (2016). **Python Data Science Handbook**  O'Reilly Media, Inc.  ISBN: 9781491912058. Disponível [aqui](https://jakevdp.github.io/PythonDataScienceHandbook/03.10-working-with-strings.html) cap. 3.10.
+
+> <img src="https://d33wubrfki0l68.cloudfront.net/b88ef926a004b0fce72b2526b0b5c4413666a4cb/24a30/cover.png" width="140"/>
+
+> * Wickham, H., & Grolemund, G. (2016). [**R for data science: import, tidy, transform, visualize, and model data**](https://r4ds.had.co.nz/index.html) O'Reilly Media, Inc.
+ 
+> * > <img src="https://wesmckinney.com/book/images/cover.png" width="140"/>
+
+> * > McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
+
+> [Aula 20.03]( )
+
+
+
