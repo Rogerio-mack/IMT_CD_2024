@@ -63,5 +63,6 @@
 
 > [Aula 20.03](https://colab.research.google.com/drive/1tpwdqadjT_kN8e3pbVUzI5HfdUxM8Ac5?usp=sharing)
 
-
+> [Exercício Apply Regular Expressions](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_ApplyReg.ipynb) 
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_ApplyReg.ipynb) 
 
