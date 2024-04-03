@@ -69,7 +69,9 @@
 > * McKinney, Wes. [Python for Data Analysis, 3E](https://wesmckinney.com/book/)
 
 > [Exercício Combine Reshape Join](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_combine_reshape_join.ipynb) 
-| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_combine_reshape_join_solucao.ipynb) 
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_combine_reshape_join_solucao.ipynb)
+
+**03.04** [Visualização de Dados](https://meusite.mackenzie.br/rogerio/MyBook/_build/html/intro.html) 
 
 
 
