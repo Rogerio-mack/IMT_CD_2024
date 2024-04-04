@@ -77,7 +77,7 @@
 
 ### EDA (*Exploratory Data Analysis*): Visualização de Dados, `Matplotlib` e `Seaborn`
 
-**03.04** [Visualização de Dados](https://meusite.mackenzie.br/rogerio/MyBook/_build/html/intro.html) 
+**03.04** [Visualização de Dados](https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python) 
 
 > <img src="https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python/raw/main/figuras/capas/1.png" width="190"/>
 
