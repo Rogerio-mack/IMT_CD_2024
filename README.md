@@ -15,7 +15,7 @@
 
 > [Standard Process for Data Mining](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Standard_Process_for_Data_Mining.ipynb)
 
-#### `Pandas`, `Matplotlib`, Visualização de Dados e EDA (*Exploratory Data Analysis*)
+#### EDA (*Exploratory Data Analysis*): Manipulação e Seleção de Dados, `Pandas`
 
 **28.02** [Pandas DataFrames e Séries](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Pandas_I.ipynb) 
 | [Exercício Ex_Pandas1](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_Pandas1.ipynb)
@@ -70,6 +70,8 @@
 
 > [Exercício Combine Reshape Join](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_combine_reshape_join.ipynb) 
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_combine_reshape_join_solucao.ipynb)
+
+#### EDA (*Exploratory Data Analysis*): Visualização de Dados, `Matplotlib` e `Seaborn`
 
 **03.04** [Visualização de Dados](https://meusite.mackenzie.br/rogerio/MyBook/_build/html/intro.html) 
 
