@@ -73,5 +73,13 @@
 
 **03.04** [Visualização de Dados](https://meusite.mackenzie.br/rogerio/MyBook/_build/html/intro.html) 
 
+> <img src="https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python/raw/main/figuras/capas/1.png" width="190"/>
+
+> * Oliveira, R. (2022). [Visualizacao de Dados em Python](https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python) Cap. 3
+
+> [Exercício Matplotlib](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_Matplotlib1.ipynb) 
+| [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_Matplotlib1_solucao.ipynb)
+
+
 
 
