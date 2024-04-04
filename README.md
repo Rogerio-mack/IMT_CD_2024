@@ -6,7 +6,7 @@
 
 ## Programação
 
-#### Introdução, IA X Ciência de Dados, CRISP DM, Colab
+### Introdução, IA X Ciência de Dados, CRISP DM, Colab
 
 **14.02** [Ciências de Dados e Usos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ciencias_de_Dados_e_Usos.ipynb)
 
@@ -17,7 +17,7 @@
 
 <br>
 
-#### EDA (*Exploratory Data Analysis*): Manipulação e Seleção de Dados, `Pandas`
+### EDA (*Exploratory Data Analysis*): Manipulação e Seleção de Dados, `Pandas`
 
 **28.02** [Pandas DataFrames e Séries](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Pandas_I.ipynb) 
 | [Exercício Ex_Pandas1](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_Pandas1.ipynb)
@@ -75,7 +75,7 @@
 
 <br>
 
-#### EDA (*Exploratory Data Analysis*): Visualização de Dados, `Matplotlib` e `Seaborn`
+### EDA (*Exploratory Data Analysis*): Visualização de Dados, `Matplotlib` e `Seaborn`
 
 **03.04** [Visualização de Dados](https://meusite.mackenzie.br/rogerio/MyBook/_build/html/intro.html) 
 
