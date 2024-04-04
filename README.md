@@ -85,6 +85,8 @@
 
 > [Exercício Matplotlib](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_Matplotlib1.ipynb) 
 | [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Ex_Matplotlib1_solucao.ipynb)
+>
+> [**Projeto I**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CD_Projeto_I.ipynb)
 
 
 
