@@ -88,6 +88,13 @@
 >
 > [**Projeto I**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CD_Projeto_I.ipynb)
 
+### Avaliações 1o Bimestre
+
+[P1S1 A](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CD_P1S1_2024S1_solucao.ipynb) |
+[P1S1 B](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CD_P1S1_2024S1_solucao.ipynb) |
+[**P1S1 Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CD_P1S1_2024S1_solucao.ipynb)
+
+
 
 
 
