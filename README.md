@@ -94,7 +94,11 @@
 [P1S1 B](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CD_P1S1_2024S1_solucao.ipynb) |
 [**P1S1 Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CD_P1S1_2024S1_solucao.ipynb)
 
+**17.04** **Evolução** 
 
+> * Oliveira, R. (2022). [Visualizacao de Dados em Python](https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python) Cap. 4
+> * [`plt.plot()` X `sns.lineplot()`](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Smooth_curves.ipynb)
+> * [Múltiplos gráficos: Exercícios resolvidos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_matplotlib2_solucao.ipynb) 
 
 
 
