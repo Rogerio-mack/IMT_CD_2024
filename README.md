@@ -98,7 +98,9 @@
 
 > * Oliveira, R. (2022). [Visualizacao de Dados em Python](https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python) Cap. 4
 > * [`plt.plot()` X `sns.lineplot()`](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Smooth_curves.ipynb)
-> * [Múltiplos gráficos: Exercícios resolvidos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_matplotlib2_solucao.ipynb) 
+> * [Múltiplos gráficos: Exercícios resolvidos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_matplotlib2_solucao.ipynb)
+
+> [Lab CovidxB3](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CaseEDA_CovidxB3.ipynb), *em grupo de até 5 alunos*
 
 
 
