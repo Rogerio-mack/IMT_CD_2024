@@ -4,6 +4,13 @@
 # Ciência de Dados
 **ECM514** Prof rogerio.oliveira@maua.br
 
+<br>
+
+* **Notas 1o Bimestre**: [.pdf](https://github.com/Rogerio-mack/IMT_CD_2024/blob/main/notas_B1.pdf) | [.xlsx](https://github.com/Rogerio-mack/IMT_CD_2024/raw/main/notas_B1.xlsx), aqui com comentários da atividade *Business Case*. 
+
+<br>
+<br>
+
 ## Programação
 
 ### Introdução, IA X Ciência de Dados, CRISP DM, Colab
