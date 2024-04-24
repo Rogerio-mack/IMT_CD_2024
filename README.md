@@ -109,7 +109,7 @@
 
 > [Lab CovidxB3](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CaseEDA_CovidxB3.ipynb), *em grupo de até 5 alunos*
 
-**24.04** 
+**24.04** **Projeto I e Distribuição**
 
 > [Projeto I](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CD_Projeto_I.ipynb)
 >> [Projeto I Template](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Projeto_Template_B1.ipynb)
