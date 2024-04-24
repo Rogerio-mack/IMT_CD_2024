@@ -111,7 +111,7 @@
 
 **24.04** **Projeto I e Distribuição**
 
-> [Projeto I](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CD_Projeto_I.ipynb)
+> [Projeto I](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CD_Projeto_I.ipynb), data de entrega 05.06
 >> [Projeto I Template](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Projeto_Template_B1.ipynb)
 
 > [Exploratory Data Analysis](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_EDA.ipynb)
