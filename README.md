@@ -118,7 +118,8 @@
 
 > * Oliveira, R. (2022). [Visualizacao de Dados em Python](https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python) Cap. 5 (Distribuição)
  
-> [Lab Distribuições](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_Distributions.ipynb)   
+> [*hands on*, Distribuições](https://colab.research.google.com/drive/1vc9_s2uTx9hoNLqrfLQpRbkNj_M-GBrZ?usp=sharing) |
+[Lab Distribuições](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_Distributions.ipynb)   
 
 
 
