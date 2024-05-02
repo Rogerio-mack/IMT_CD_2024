@@ -126,9 +126,9 @@
 
 > * Oliveira, R. (2022). [Visualizacao de Dados em Python](https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python) Cap. 6 (Quantidades e Proporções)
 
-[Lab Bars](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_bars.ipynb)  
-
 [*hands on*](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Aula_20240502.ipynb)
+
+[Lab Bars](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_bars.ipynb)  
 
 
 
