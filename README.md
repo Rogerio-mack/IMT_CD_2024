@@ -134,11 +134,11 @@
 
 > * Oliveira, R. (2022). [Visualizacao de Dados em Python](https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python) Cap. 7 (Relações) e Conclusão
 
-[Funções de Distribuição](https://github.com/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CD_Distributions_Functions.ipynb)
-
 [Coeficientes de Correlação, Duas Variáveis Quantitativas](https://github.com/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CD_Coef_Correlacao.ipynb)
 
 [Lab Plot Relations](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Ex_PlotRelations.ipynb)  
+
+> [Funções de Distribuição](https://github.com/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CD_Distributions_Functions.ipynb), *complementar, opcional*
 
 
 
