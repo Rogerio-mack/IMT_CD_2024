@@ -138,7 +138,7 @@
 
 [Coeficientes de Correlação, Duas Variáveis Quantitativas](https://github.com/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CD_Coef_Correlacao.ipynb)
 
-[Lab Plot Relations](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_PlotRelations.ipynb)  
+[Lab Plot Relations](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Ex_PlotRelations.ipynb)  
 
 
 
