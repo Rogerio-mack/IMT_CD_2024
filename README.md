@@ -118,7 +118,7 @@
 
 > * Oliveira, R. (2022). [Visualizacao de Dados em Python](https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python) Cap. 5 (Distribuição)
  
-[*hands on*, Distribuições](https://colab.research.google.com/drive/1vc9_s2uTx9hoNLqrfLQpRbkNj_M-GBrZ?usp=sharing)
+[*Aula*, Distribuições](https://colab.research.google.com/drive/1vc9_s2uTx9hoNLqrfLQpRbkNj_M-GBrZ?usp=sharing)
 
 [Lab Distribuições](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_Distributions.ipynb)   
 
@@ -126,7 +126,7 @@
 
 > * Oliveira, R. (2022). [Visualizacao de Dados em Python](https://github.com/Rogerio-mack/Visualizacao-de-Dados-em-Python) Cap. 6 (Quantidades e Proporções)
 
-[*hands on*](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Aula_20240502.ipynb)
+[*Aula*, Quantidades e Propoções](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Aula_20240502.ipynb)
 
 [Lab Bars](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_bars.ipynb)  
 
@@ -137,6 +137,8 @@
 [Coeficientes de Correlação, Duas Variáveis Quantitativas](https://github.com/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CD_Coef_Correlacao.ipynb)
 
 [Lab Plot Relations](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Ex_PlotRelations.ipynb)  
+
+> [*Aula*, Relações](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Aula_20240508.ipynb)
 
 > [Funções de Distribuição](https://github.com/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CD_Distributions_Functions.ipynb), *complementar, opcional*
 
