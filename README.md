@@ -121,7 +121,7 @@
 [*Aula*, Distribuições](https://colab.research.google.com/drive/1vc9_s2uTx9hoNLqrfLQpRbkNj_M-GBrZ?usp=sharing)
 
 [Lab Distribuições](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_Distributions.ipynb) |  
-[**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_Distributions_solucao.ipynb)
+[**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_Distributions_solucao.ipynb) | *Atenção em como produzir a indicar pontos de corte nas distribuições.*
 
 **02.05** **Quantidades e Proporções**
 
@@ -130,7 +130,7 @@
 [*Aula*, Quantidades e Propoções](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Aula_20240502.ipynb)
 
 [Lab Bars](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_bars.ipynb)  |
-[**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_bars_solucao.ipynb)
+[**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_bars_solucao.ipynb) | *Olhe com atenção as agregações.*
 
 **08.05** **Relações e Conclusão de Visualização de Dados**
 
@@ -139,7 +139,7 @@
 [Coeficientes de Correlação, Duas Variáveis Quantitativas](https://github.com/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CD_Coef_Correlacao.ipynb)
 
 [Lab Plot Relations](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Ex_PlotRelations.ipynb) |
-[**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Ex_PlotRelations_solucao.ipynb)
+[**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Ex_PlotRelations_solucao.ipynb) | *Atenção a como adicionar linhas de tendência e linha média, e mapa de correlação.*
 
 > [*Aula*, Relações](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Aula_20240508.ipynb)
 
