@@ -140,10 +140,9 @@
 
 > [*Aula*, Relações](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Aula_20240508.ipynb)
 
-> [Funções de Distribuição](https://github.com/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CD_Distributions_Functions.ipynb), *complementar, opcional*
+**15.05** **Distribuições, Inferência e Testes Estatísticos**
 
-
-
+> [Distribuições, Inferência e Testes Estatísticos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Distribuicoes_Inferencia_IC.ipynb)
 
 
 
