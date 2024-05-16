@@ -147,7 +147,9 @@
 
 > [Distribuições, Inferência e Testes Estatísticos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Distribuicoes_Inferencia_IC.ipynb)
 
-> [Aula](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Aula_20240516.ipynb) | [Lab PDFCDF](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Ex_PDFCDF.ipynb)
+> [Aula](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/Aula_20240516.ipynb) |
+> [Lab PDFCDF](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Ex_PDFCDF.ipynb) |
+> [Lab PDFCDF](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Ex_PDFCDF_solucao.ipynb)
 
 
 
