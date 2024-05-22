@@ -151,6 +151,10 @@
 > [Lab PDFCDF](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Ex_PDFCDF.ipynb) |
 > [**Solução**](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Ex_PDFCDF_solucao.ipynb)
 
+**22.05** **Intervalos de Confiança e Testes de Hipótese**
+
+[IC e Hipothese Tests](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_IC_HipoteseTests.ipynb)
+
 
 
 
