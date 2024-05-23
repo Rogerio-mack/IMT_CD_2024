@@ -159,6 +159,12 @@
 
 **29.05** **Aprendizado Supervisionado: Regressão Linear**
 
+**05.06** **Apresentação dos Projetos - (Todos 1o Horário)**
+
+**06.06** **Revisão**
+
+
+
 
 
 
