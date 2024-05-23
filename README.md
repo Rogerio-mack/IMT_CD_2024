@@ -155,6 +155,10 @@
 
 [IC e Hipothese Tests](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_IC_HipoteseTests.ipynb)
 
+[Lab Testes de Hipóteses](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ex_Htestes.ipynb)
+
+**29.05** **Aprendizado Supervisionado: Regressão Linear**
+
 
 
 
