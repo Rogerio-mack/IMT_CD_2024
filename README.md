@@ -160,9 +160,9 @@
 
 **29.05** **Aprendizado Supervisionado: Regressão Linear**
 
-[**Introdução ao Aprendizado de Máquina**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao.ipynb)
+[Introdução ao Aprendizado de Máquina](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML1_introducao.ipynb)
 
-[**Aprendizado Supervisionado e Regressão Linear**](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao.ipynb)
+[Aprendizado Supervisionado e Regressão Linear](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao.ipynb)
 
 **05.06** **Apresentação dos Projetos - (Todos 1o Horário)**
 
