@@ -168,6 +168,9 @@
 
 **06.06** **Revisão**
 
+[Lições dos Projetos e Paradoxos de Ciência de Dados](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/IMT_CD_Paradoxos.ipynb)
+
+
 
 
 
