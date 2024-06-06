@@ -170,6 +170,8 @@
 
 [Lições dos Projetos e Paradoxos de Ciência de Dados](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CD_Paradoxos.ipynb)
 
+[P2 Contents](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Contents_P2.md)
+
 
 
 
