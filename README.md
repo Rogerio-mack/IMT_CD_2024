@@ -172,9 +172,11 @@
 
 [P2 Contents](https://github.com/Rogerio-mack/IMT_CD_2024/blob/main/IMT_contents_P2.md)
 
+### Aprendizado de Máquina
 
+**07.08** **Regressão Linear, statsmodel e scikit-learn**
 
-
+[Regressão Linear, statsmodel e scikit-learn](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao.ipynb)
 
 
 
