@@ -178,7 +178,8 @@
 
 [Regressão Linear, statsmodel e scikit-learn](https://colab.research.google.com/github/Rogerio-mack/Machine-Learning-I/blob/main/ML2_Regressao.ipynb)
 
-**08.08** [Regressão Linear, stasmodel Lab](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_regressao_scale.ipynb)
+[Regressão Linear, stasmodel Lab](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_regressao_scale.ipynb) |
+[Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_regressao_scale_solucao.ipynb)
 
 
 
