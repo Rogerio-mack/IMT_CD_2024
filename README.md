@@ -181,6 +181,10 @@
 [Regressão Linear, stasmodel Lab](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_regressao_scale.ipynb) |
 [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_regressao_scale_solucao.ipynb)
 
+**14.08** **Regressão e modelos robustos**
+
+[Termos de interação e modelos robustos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_robust_regression.ipynb)
+
 
 
 
