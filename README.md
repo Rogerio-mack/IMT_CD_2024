@@ -185,8 +185,10 @@
 
 [Termos de interação e modelos robustos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_robust_regression.ipynb)
 
+**21.08** **Regressão Exercícios e Classificação**
 
-
+[Regressão, Exercícios](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_regression_robust_lab.ipynb) |
+[Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_regression_robust_solucao.ipynb)
 
 
 
