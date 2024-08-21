@@ -190,6 +190,10 @@
 [Regressão, Exercícios](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_regression_robust_lab.ipynb) |
 [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_regression_robust_solucao.ipynb)
 
+**28.08** **Classificação**
+
+**ATENÇÃO**: Próxima quarta-feira, 28.08, Lab Avaliativo
+
 
 
 
