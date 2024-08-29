@@ -194,7 +194,8 @@
 
 **28.08** **Classificação**
 
-**ATENÇÃO**: Próxima quarta-feira, 28.08, Lab Avaliativo
+**ATENÇÃO**: Próxima quarta-feira, 28.08, Lab Avaliativo |
+[Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Lab_regressao_linear1_solucao.ipynb)
 
 
 
