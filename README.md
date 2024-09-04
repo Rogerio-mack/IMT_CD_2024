@@ -199,7 +199,11 @@
 
 [Estimadores de Hot Label Encode e Scale](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Lab_hot_encode_scale.ipynb)
 
+**02.09** **Classificação, Pre-processamento e Métricas**
 
+[K-vizinhos mais próximos & Métricas](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/ML4_Knn.ipynb)
+
+[Pre-Processamento (encode, normalização)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_pre_processing.ipynb#scrollTo=80CF3Eq9EXDW)
 
 
 
