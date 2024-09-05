@@ -211,7 +211,9 @@
 
 > [**Projeto do Semestre**](https://github.com/Rogerio-mack/IMT_CD_2024/blob/main/ML_projects_Excalidraw_escuro.png?raw=true)
 
+**09.09** **Seleção de Modelos e Hiperparâmtros**
 
+**ATENÇÃO**: Próxima quarta-feira, 11.09, Lab Avaliativo  
 
 
 
