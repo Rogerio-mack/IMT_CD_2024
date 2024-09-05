@@ -205,6 +205,8 @@
 
 [Pre-Processamento (encode, normalização)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_pre_processing.ipynb#scrollTo=80CF3Eq9EXDW)
 
+[**Projeto do Semestre**](https://github.com/Rogerio-mack/IMT_CD_2024/blob/main/ML_projects_Excalidraw_escuro.png)
+
 
 
 
