@@ -212,9 +212,26 @@
 
 > [**Projeto do Semestre**](https://github.com/Rogerio-mack/IMT_CD_2024/blob/main/ML_projects_Excalidraw_escuro.png?raw=true)
 
-**09.09** **Seleção de Modelos e Hiperparâmtros**
+**09.09** **+Métricas, Curva ROC e Cross Validation**
 
-**ATENÇÃO**: Próxima quarta-feira, 11.09, Lab Avaliativo  
+**ATENÇÃO**: Próxima quarta-feira, 11.09, Lab Avaliativo |
+[Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Lab_Estimadores_Logistic_Knn_solucao.ipynb)
+
+[Curva ROC](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ROC.ipynb), [Custo, Erro Tipo 1 e Tipo 2](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/ML4_Knn.ipynb)
+
+[Cross Validation](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/ML6_CV_GridSearch.ipynb)
+
+**16.09** **Árvores de Decisão, Feature Selection e GridSearch(?)**
+
+[Árvore de Decisão e Seleção de Atributos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Arvores_de_Decisao_e_Mutual_Info.ipynb)
+
+[GridSearch(?)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/ML6_CV_GridSearch.ipynb)
+
+**23.09** **Avaliação 3o Bimestre**
+
+
+
+
 
 
 
