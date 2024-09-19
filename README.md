@@ -227,7 +227,8 @@
 
 [Árvore de Decisão e Seleção de Atributos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Arvores_de_Decisao_e_Mutual_Info.ipynb)
 
-[Exercícios CV](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CV_GridSearchCV.ipynb)
+[Exercícios CV](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CV_GridSearchCV.ipynb) |
+[Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CV_GridSearchCV_solucao.ipynb)
 
 [GridSearch(?)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/ML6_CV_GridSearch.ipynb)
 
