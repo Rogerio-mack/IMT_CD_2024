@@ -1,0 +1,4 @@
+card,reports,age,income,share,owner,selfemp,dependents,months,majorcards,active,client_name,sex
+yes,0,32,3.37,0.07,no,no,0,55,0,6,Christopher Huffman,Male
+yes,0,25,2.24,0.0,no,no,0,12,1,2,Jennifer Mitchell,Female
+yes,1,46,5.5,0.18,no,no,3,143,1,16,James Massey,Male
