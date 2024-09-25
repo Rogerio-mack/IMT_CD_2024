@@ -212,6 +212,9 @@
 
 > [**Projeto do Semestre**](https://github.com/Rogerio-mack/IMT_CD_2024/blob/main/ML_projects_Excalidraw_escuro.png?raw=true)
 
+>> - [templates SBC para o artigo](https://www.sbc.org.br/documentosinstitucionais/#publicacoes) 
+>> - exemplos de Projetos GitHub: [Exemplo 1](https://github.com/saic-fi/Bayesian-Prompt-Learning/tree/main) | [Exemplo 2](https://github.com/jcampolim/iniciacao-tecnologica) [Exemplo 3](https://github.com/open-vlf)
+
 **09.09** **+Métricas, Curva ROC e Cross Validation**
 
 **ATENÇÃO**: Próxima quarta-feira, 11.09, Lab Avaliativo |
