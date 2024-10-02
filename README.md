@@ -239,7 +239,9 @@
 
 **23.09** **Avaliação 3o Bimestre**
 
+**02.10** **Árvores de Decisão, Feature Selection e GridSearch(?)**
 
+[Árvore de Decisão e Seleção de Atributos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Arvores_de_Decisao_e_Mutual_Info.ipynb)
 
 
 
