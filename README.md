@@ -235,13 +235,15 @@
 
 [GridSearch(?)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/ML6_CV_GridSearch.ipynb)
 
-
-
 **23.09** **Avaliação 3o Bimestre**
 
 **02.10** **Árvores de Decisão, Feature Selection e GridSearch(?)**
 
 [Árvore de Decisão e Seleção de Atributos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Arvores_de_Decisao_e_Mutual_Info.ipynb)
+
+**07.10** **Exercícios, Dados texto: TF-IDF**
+
+[Árvores de Decisão, Seleção de Atributos e de Modelos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_DT_Selection.ipynb)
 
 
 
