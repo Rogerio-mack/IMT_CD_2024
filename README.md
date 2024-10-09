@@ -244,6 +244,7 @@
 **07.10** **Exercícios, Dados texto: TF-IDF**
 
 [Árvores de Decisão, Seleção de Atributos e de Modelos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_DT_Selection.ipynb)
+| [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_DT_Selection_solucao.ipynb)
 
 
 
