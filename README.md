@@ -246,6 +246,8 @@
 [Árvores de Decisão, Seleção de Atributos e de Modelos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_DT_Selection.ipynb)
 | [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_DT_Selection_solucao.ipynb)
 
+[Trabalhando com Texto, TF-IDF e mais](https://colab.research.google.com/github/Rogerio-mack/IMT_Ciencia_de_Dados/blob/main/IMT_TFIDF_word2vec.ipynb)
+
 
 
 
