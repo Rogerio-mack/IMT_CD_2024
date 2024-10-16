@@ -252,6 +252,8 @@
 
 **14.10** **Aprendizado não Supervisionado: Clustering**
 
+[Aprendizado não Supervisionado](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Clustering.ipynb)
+
 **ATENÇÃO**: Próxima quinta-feira, 17.10, Lab Avaliativo 
 
 **NOTAS**: [Aqui](https://github.com/Rogerio-mack/IMT_CD_2024/raw/refs/heads/main/IMT_CD_P3_notas.xlsx)
