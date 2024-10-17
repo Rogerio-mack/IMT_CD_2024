@@ -256,7 +256,7 @@
 
 **ATENÇÃO**: Próxima quinta-feira, 17.10, Lab Avaliativo 
 
-**NOTAS**: [Aqui](https://github.com/Rogerio-mack/IMT_CD_2024/raw/refs/heads/main/IMT_CD_P3_notas.xlsx)
+**NOTAS**: [Aqui](https://github.com/Rogerio-mack/IMT_CD_2024/raw/refs/heads/main/IMT_CD_P3_notas.xlsx) | [Confira suas respostas da P3](https://docs.google.com/spreadsheets/d/1AJSbhTgr9ZaQSChlcfoDwtgasCKzkL49CYjthR87UBQ/edit?usp=sharing)
 
 
 
