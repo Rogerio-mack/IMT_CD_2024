@@ -268,15 +268,22 @@
 
 **28.10** **Séries Temporais: Modelos Estatísticos**
 
+> *Aguarde o conteúdo*
+
 **04.11** **Séries Temporais: Aprendizado de Máquina**
 
-**ATENÇÃO**: Próxima quinta-feira, Lab Avaliativo: Clustering e Séries Temporais 
+> **ATENÇÃO**: Próxima quinta-feira, Lab Avaliativo: Clustering e Séries Temporais 
 
-**11.11** **PCA, LLM? + Entrega dos Projetos**
+> *Aguarde o conteúdo*
 
-**ATENÇÃO**: Quinta-feira, Entrega dos projetos?  
+**11.11** **PCA, LLM, outro tema de Ciência de Dados? + Entrega dos Projetos**
+
+> *Aguarde o conteúdo*
+
+> **ATENÇÃO**: Quinta-feira, Entrega dos projetos?  
 
 **18.11** **Avaliações Finais**
+
 
 
 
