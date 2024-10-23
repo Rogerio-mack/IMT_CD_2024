@@ -256,7 +256,27 @@
 
 **ATENÇÃO**: Próxima quinta-feira, 17.10, Lab Avaliativo 
 
+[Lab Avaliativo: Seleção de Features e GridSearchCV (Solução)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Lab_feature_selection_gridsearch_solucao.ipynb)
+
 **NOTAS**: [Aqui](https://github.com/Rogerio-mack/IMT_CD_2024/raw/refs/heads/main/IMT_CD_P3_notas.xlsx) | [Confira suas respostas da P3](https://docs.google.com/spreadsheets/d/1AJSbhTgr9ZaQSChlcfoDwtgasCKzkL49CYjthR87UBQ/edit?usp=sharing)
+
+**21.10** **Clustering: Kmédias e Cluster Hierárquico**
+
+[Aprendizado não Supervisionado](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Clustering.ipynb)
+
+**28.10** **Séries Temporais: Modelos Estatísticos**
+
+**04.11** **Séries Temporais: Aprendizado de Máquina**
+
+**ATENÇÃO**: Próxima quinta-feira, Lab Avaliativo: Clustering e Séries Temporais 
+
+**11.11** **PCA, LLM? + Entrega dos Projetos**
+
+**ATENÇÃO**: Quinta-feira, Entrega dos projetos?  
+
+**18.11** **Avaliações Finais**
+
+
 
 
 
