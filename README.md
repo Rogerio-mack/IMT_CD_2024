@@ -262,6 +262,8 @@
 
 **21.10** **Clustering: Kmédias e Cluster Hierárquico**
 
+[Melhor data para TIRA DÚVIDAS sobre modelos de Classificação?](https://forms.gle/ZWsjm3U3MbEbj74Y9)
+
 [Aprendizado não Supervisionado](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Clustering.ipynb)
 
 **28.10** **Séries Temporais: Modelos Estatísticos**
