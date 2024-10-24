@@ -264,7 +264,10 @@
 
 [Melhor data para TIRA DÚVIDAS sobre modelos de Classificação?](https://forms.gle/ZWsjm3U3MbEbj74Y9)
 
-[Aprendizado não Supervisionado](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Clustering.ipynb)
+[Clustering](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Clustering.ipynb)
+
+[Lab](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_HClust_Lab.ipynb)
+| [Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_HClust_Lab_solucao.ipynb)
 
 **28.10** **Séries Temporais: Modelos Estatísticos**
 
