@@ -271,7 +271,12 @@
 
 **28.10** **Séries Temporais: Modelos Estatísticos**
 
-> *Aguarde o conteúdo*
+[Introdução: modelos de regressão $\times$ auto-regressivos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_HClust_Lab.ipynb)
+
+Oliveira, R, Abarracin, OYE, Silva, GR (2024) [Introdução às Séries Temporais: Uma Abordagem Prática em Python](https://github.com/Introducao-Series-Temporais-em-Python/Book) Editora Mackenzie.
+
+<img src="https://github.com/Introducao-Series-Temporais-em-Python/Book/blob/main/Figures/ISTP_capa.png?raw=true" width="120" />
+
 
 **04.11** **Séries Temporais: Aprendizado de Máquina**
 
