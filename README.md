@@ -273,6 +273,8 @@
 
 [Introdução: modelos de regressão X auto-regressivos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_co2_regression.ipynb)
 
+[Time Series mini course](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/SBSI_2024_tsminicourse.ipynb)
+
 Oliveira, R, Abarracin, OYE, Silva, GR (2024) [Introdução às Séries Temporais: Uma Abordagem Prática em Python](https://github.com/Introducao-Series-Temporais-em-Python/Book) Editora Mackenzie.
 
 <img src="https://github.com/Introducao-Series-Temporais-em-Python/Book/blob/main/Figures/ISTP_capa.png?raw=true" width="120" />
