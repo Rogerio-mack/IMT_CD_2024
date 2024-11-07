@@ -284,7 +284,7 @@ Oliveira, R, Abarracin, OYE, Silva, GR (2024) [Introdução às Séries Temporai
 
 > **ATENÇÃO**: Próxima quinta-feira, Lab Avaliativo: Clustering e Séries Temporais 
 
-> *Aguarde o conteúdo*
+> [ARIMA Exemplo](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ARIMA_example.ipynb)
 
 **11.11** **PCA, LLM, outro tema de Ciência de Dados? + Entrega dos Projetos**
 
