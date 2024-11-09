@@ -286,6 +286,10 @@ Oliveira, R, Abarracin, OYE, Silva, GR (2024) [Introdução às Séries Temporai
 
 > [ARIMA Exemplo](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_ARIMA_example.ipynb)
 
+> Lab Avaliativo Clustering e Time Series
+[Lab A - Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Lab_Clustering_TimeSeries2_solucao.ipynb)
+[Lab B - Solução](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Lab_Clustering_TimeSeries_solucao.ipynb) 
+
 **11.11** **PCA, LLM, outro tema de Ciência de Dados? + Entrega dos Projetos**
 
 > *Aguarde o conteúdo*
