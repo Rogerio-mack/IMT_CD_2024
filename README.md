@@ -292,9 +292,13 @@ Oliveira, R, Abarracin, OYE, Silva, GR (2024) [Introdução às Séries Temporai
 
 **11.11** **PCA, LLM, outro tema de Ciência de Dados? + Entrega dos Projetos**
 
-> *Aguarde o conteúdo*
+> [Roteiro de Estudos](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_Roteiro_Estudos_P4.ipynb)
 
-> **ATENÇÃO**: Quinta-feira, Entrega dos projetos?  
+> [PCA, scikit-learn, Clustering and Classification](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_PCA_scikitlearn.ipynb)
+
+>> [PCA, by defition (math)](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_PCA_by_definition.ipynb)
+
+> **ATENÇÃO**: Quinta-feira, Entrega dos projetos  
 
 **18.11** **Avaliações Finais**
 
