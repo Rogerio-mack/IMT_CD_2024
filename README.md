@@ -302,6 +302,8 @@ Oliveira, R, Abarracin, OYE, Silva, GR (2024) [Introdução às Séries Temporai
 
 **18.11** **Avaliações Finais**
 
+> [Notas Finais antes da Sub](https://github.com/Rogerio-mack/IMT_CD_2024/tree/main/notas)
+
 
 
 
