@@ -304,6 +304,8 @@ Oliveira, R, Abarracin, OYE, Silva, GR (2024) [Introdução às Séries Temporai
 
 > [Notas Finais antes da Sub](https://github.com/Rogerio-mack/IMT_CD_2024/tree/main/notas)
 
+> [Solução, Prática P4](https://colab.research.google.com/github/Rogerio-mack/IMT_CD_2024/blob/main/IMT_CD_P4A_2024S2_solucao.ipynb) 
+
 
 
 
