@@ -5,6 +5,29 @@
 **ECM514** Prof rogerio.oliveira@maua.br
 
 <br>
+<br>
+
+### Trabalhos de Final de Curso dos Alunos
+
+[Classificação de artigos científicos do site Arxiv](https://github.com/Projeto-Ciencia-de-Dados/ProjetoCD)
+
+[Crash Test](https://github.com/CD-CrashTest/Crash_Test)
+
+[Chorano e Dançando](https://github.com/CDIMT2024/chorano_e_dancando?tab=readme-ov-file)
+
+[Previsão de Ações com Séries Temporais e IA Generativa](https://github.com/ubiratanfilho/stocks_forecasting/tree/main)
+
+[Ranking de Apps de Bancos mais bem Avaliados da Google Play](https://github.com/PedroHein/T6_CD2)
+
+[ECM514_CD](https://github.com/Rodrigo-Pedreira/ECM514_CD)
+
+[Projeto-Segundo-Semestre-ECM514-Ciencia-dos-Dados](https://github.com/Senhor-Filipe/Projeto-Segundo-Semestre-ECM514-Ciencia-dos-Dados)
+
+[Classificador de Artigos de Física ArXiv](https://github.com/marcellobeer/arxiv-classification)
+
+[Projeto de Classificação de Ranking de potencial de engajamento de um post de imagem do instagram](https://github.com/FelipeSilvieri/projeto-image-classification)
+
+
 
 * **Notas 1o Bimestre**: [.pdf](https://github.com/Rogerio-mack/IMT_CD_2024/blob/main/notas_B1.pdf) | [.xlsx](https://github.com/Rogerio-mack/IMT_CD_2024/raw/main/notas_B1.xlsx), aqui com comentários da atividade *Business Case*. 
 
