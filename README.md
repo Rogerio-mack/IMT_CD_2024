@@ -28,9 +28,6 @@
 [Projeto de Classificação de Ranking de potencial de engajamento de um post de imagem do instagram](https://github.com/FelipeSilvieri/projeto-image-classification)
 
 
-
-* **Notas 1o Bimestre**: [.pdf](https://github.com/Rogerio-mack/IMT_CD_2024/blob/main/notas_B1.pdf) | [.xlsx](https://github.com/Rogerio-mack/IMT_CD_2024/raw/main/notas_B1.xlsx), aqui com comentários da atividade *Business Case*. 
-
 <br>
 <br>
 
